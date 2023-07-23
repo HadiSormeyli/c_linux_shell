@@ -5,7 +5,7 @@ graphical UI. Our shell will be called imcsh (short for IMC shell) and will acce
 using the standard input (stdin). The shell will execute the provided commands from the user and print the
 result to the standard output (stdout).
 
-#IMCSH description
+# IMCSH description
 After executing the shell, a command prompt of the form user@host> will be shown on a new line in the
 terminal. The shell will accept the following syntax:
 • exec <program_to_execute>: accepts a program to execute with its parameters and executes it by
