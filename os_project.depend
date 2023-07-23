@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1688104752 source:/home/hadi/Desktop/os/os_project/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/wait.h>
+	<pthread.h>
+
+1688066952 source:c:\users\hadi\desktop\os_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/wait.h>
+	<pthread.h>
+
